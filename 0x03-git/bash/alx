@@ -2,3 +2,10 @@ Cool, all my changes will be now part of the main branch, ready to be deployed!â
 "ALX School"
 main
 not something we can merge
+diff --git a/file.txt b/file.txt
+index 802992c..2b60207 100644
+--- a/file.txt
++++ b/file.txt
+@@ -1 +1 @@
+-Hello world
++Goodbye
