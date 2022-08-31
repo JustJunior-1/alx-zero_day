@@ -1,20 +1,4 @@
 Cool, all my changes will be now part of the main branch, ready to be deployed!”
 "ALX School"
-diff --git a/file.txt b/file.txt
-index 2b34ae8..a27a6bd 100644
---- a/file.txt
-+++ b/file.txt
-@@ -1,16 +1,16 @@
- Line 1
-+Addition here
- Line 2
- Line 3
- Line 4
- Line 5
- Line 6
- Line 7
--Line 8
-+Line 8 Change here, and deletion on line 15
- Line 9
- Line 10
- Line 11
+"-----"
+">>>>>>"
