@@ -1,7 +1,20 @@
 Cool, all my changes will be now part of the main branch, ready to be deployed!”
 "ALX School"
-<<<<<<< HEAD
-git pull
-=======
-git pull https://github.com/JustJunior-1/alx-pre_course.git
->>>>>>> dce8db300463872e2dec7857104ed2c54b417f0b
+diff --git a/file.txt b/file.txt
+index 2b34ae8..a27a6bd 100644
+--- a/file.txt
++++ b/file.txt
+@@ -1,16 +1,16 @@
+ Line 1
++Addition here
+ Line 2
+ Line 3
+ Line 4
+ Line 5
+ Line 6
+ Line 7
+-Line 8
++Line 8 Change here, and deletion on line 15
+ Line 9
+ Line 10
+ Line 11
